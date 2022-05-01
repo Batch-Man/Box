@@ -28,8 +28,8 @@ Where:
   		                      Border etc. New, No Border Option added [Valid values: 0 to 4]  
     _Var 		            = Variable to Save Output, instead of Printing Directly.  
   			              (Optional)  
-    ver		              = Version of Box function  
-    help		              = Displays help for the program
+    ver		            = Version of Box function  
+    help		            = Displays help for the program
 
 Example:
 
