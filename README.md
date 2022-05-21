@@ -87,5 +87,4 @@ batbox %_A%</code></pre>
 <div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="https://batch-man.com/wp-content/uploads/2022/04/3-3.png" alt="" class="wp-image-3219" width="613" height="489"/></figure></div>
 <!-- /wp:image -->
 
-
-www.batch-man.com
+https://batch-man.com/create-box-in-cmd/
